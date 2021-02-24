@@ -1,2 +1,0 @@
-camion2 route nord parcourir liste et verifier si colis doit etre livrer route nord si oui enleer de liste a charger et charger dans camion.
-Vehicule.charger(pas necessairement les bon parametre) 
